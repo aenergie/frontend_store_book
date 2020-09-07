@@ -1,4 +1,4 @@
-### Book Store Frontend (VUE CLI) - Test for elephant pink
+### Book Store Frontend (VUE CLI)
 
 ## Project setup
 ```
